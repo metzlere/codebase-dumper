@@ -23,7 +23,6 @@ Almost all of the code was written by o3-mini-high and required minimal editing 
 1. **Clone the repository. codebase-dumper should be a sibling to the target directory:**
    ```bash
    git clone https://github.com/yourusername/codebase-dumper.git
-   cd codebase-dumper
    ```
 
 ## Usage
