@@ -44,7 +44,7 @@ python codebase-dumper/codebase_dumper.py --root-dir target_directory --output-f
 
 Example:
 ```bash
-python codebase_dumper.py --root-dir ./my_project --output-file my_dump.md 
+python codebase-dumper/codebase_dumper.py --root-dir ./my_project --output-file my_dump.md 
 ```
 
 ## License
